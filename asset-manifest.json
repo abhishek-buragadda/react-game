@@ -1,11 +1,18 @@
 {
-  "main.css": "static/css/main.e769d7ab.css",
-  "main.css.map": "static/css/main.e769d7ab.css.map",
-  "main.js": "static/js/main.44bf7bfb.js",
-  "main.js.map": "static/js/main.44bf7bfb.js.map",
-  "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
-  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
-  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
-  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "files": {
+    "main.css": "/react-game/static/css/main.342fb2c6.chunk.css",
+    "main.js": "/react-game/static/js/main.723781c0.chunk.js",
+    "main.js.map": "/react-game/static/js/main.723781c0.chunk.js.map",
+    "runtime~main.js": "/react-game/static/js/runtime~main.ef933c85.js",
+    "runtime~main.js.map": "/react-game/static/js/runtime~main.ef933c85.js.map",
+    "static/css/2.b6904fd7.chunk.css": "/react-game/static/css/2.b6904fd7.chunk.css",
+    "static/js/2.8d303a40.chunk.js": "/react-game/static/js/2.8d303a40.chunk.js",
+    "static/js/2.8d303a40.chunk.js.map": "/react-game/static/js/2.8d303a40.chunk.js.map",
+    "index.html": "/react-game/index.html",
+    "precache-manifest.94692fa2781727ec69418bdb88a3ba4d.js": "/react-game/precache-manifest.94692fa2781727ec69418bdb88a3ba4d.js",
+    "service-worker.js": "/react-game/service-worker.js",
+    "static/css/2.b6904fd7.chunk.css.map": "/react-game/static/css/2.b6904fd7.chunk.css.map",
+    "static/css/main.342fb2c6.chunk.css.map": "/react-game/static/css/main.342fb2c6.chunk.css.map",
+    "static/media/font-awesome.css": "/react-game/static/media/fontawesome-webfont.fee66e71.woff"
+  }
 }
